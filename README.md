@@ -1,6 +1,6 @@
 ### About
 
-This is a sample repo demonstrating how our cohort could use GitHub to stay in touch outside of class. Features:
+This is a sample repo demonstrating how our cohort could use GitHub to stay in touch outside of class. Check out [these docs](https://docs.github.com/en/get-started/quickstart/communicating-on-github) on GitHub if you're looking for a high level overview. Features:
 
 1. Create [`issues`](https://github.com/AidenQuinn/pdx-comptia-fall-22/issues) on specific topics to get a conversation going
 2. Comment on existing issues to contribute to that conversation
