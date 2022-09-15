@@ -3,19 +3,21 @@
 This is a sample repo demonstrating how our cohort could use GitHub to stay in touch outside of class. Features:
 
 1. Create [`issues`](https://github.com/AidenQuinn/pdx-comptia-fall-22/issues) on specific topics to get a conversation going
-2. Comment on existing issues to contribute
-3. Enable email notifications so updates are sent to your inbox
-4. Allows for creation of `group` tags 
+2. Comment on existing issues to contribute to that conversation
+3. Email notifications can be configured so updates are sent to your inbox
+4. Creation of `group` tags is supported
+5. Repo could be public (like it is now) or private (so only members can see it)
 
 #### Requires
 
 - Personal GitHub account - [Sign Up](https://github.com/signup)
+- Some Administration tasks 
 
 #### Pros & Cons
 
 Benefits | Challenges
 -- | -- 
 Doesn't require downloading a chat app | May require learning how to use GitHub
-Email notification config options | Setup time
-Experience with IT tool | Varying familiarity
-Can `unfollow` convos that aren't relevant to you
+Email notification config options | Setup time to find what works for you
+Gain working experience with an IT / Eng tool | Varying levels of familiarity
+Can `unfollow` convos that aren't relevant to you 
