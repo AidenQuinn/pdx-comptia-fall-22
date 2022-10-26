@@ -31,6 +31,7 @@ Linux  | Windows | Action
 `ping` | `ping` | sned request to other hosts
 `traceroute` | `tracecert` | print route packet trace to network host
 
+#### References
 
-
-[Reference](https://www.geeksforgeeks.org/linux-vs-windows-commands/)
+- [Commands](https://www.geeksforgeeks.org/linux-vs-windows-commands/)
+- [DigitalOcean Linux CLI tutorial](https://www.digitalocean.com/community/tutorials/a-linux-command-line-primer)
