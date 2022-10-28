@@ -15,3 +15,8 @@ Login required:
 - [PocketPrep for A+](https://www.pocketprep.com/exams/comptia-a/) and [web login](https://study.pocketprep.com/sign-in)
 - [PocketPrep: IT & Cybersecurity](https://apps.apple.com/us/app/it-cybersecurity-pocket-prep/id1501744813) for iOS
 - [PocketPrep: IT & Cybersecurity](https://play.google.com/store/apps/details?id=com.pocketprep.android.itcybersecurity&gl=US) for Android
+
+### Windows
+
+- [Mac Install](https://support.apple.com/en-us/HT201468)
+- [Custom Guides](https://www.customguide.com/quick-reference)
